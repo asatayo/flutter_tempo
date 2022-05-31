@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Hotels",
+        "value": "Hotel",
+        "iconPath": "assets/images/icons/hotel.jpg",
+        "isHouse": false,
+        "isRental": false
+    },
+    {
+        "name": "Lodges",
+        "value": "Lodge",
+        "iconPath": "assets/images/icons/lodge.jpg",
+        "isHouse": false,
+        "isRental": false
+    },
+
+    {
+        "name": "Rentals",
+        "value": "Rental",
+        "iconPath": "assets/images/icons/lodge.jpg",
+        "isHouse": false,
+        "isRental": true
+    },
+    {
+        "name": "Houses",
+        "value": "House",
+        "iconPath": "assets/images/icons/house.png",
+        "isHouse": true,
+        "isRental": false
+    },
+    {
+        "name": "Venues",
+        "value": "Venue",
+        "iconPath": "assets/images/icons/venue.jpg",
+        "isHouse": false,
+        "isRental": false
+    },
+    {
+        "name": "Offices",
+        "value": "Office",
+        "iconPath": "assets/images/icons/office.jpg",
+        "isHouse": false,
+        "isRental": false
+    }
+]
